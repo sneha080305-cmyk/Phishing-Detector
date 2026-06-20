@@ -1,0 +1,9 @@
+# create this file before committing
+echo "models/
+data/raw/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.joblib
+.env
+" > .gitignore
